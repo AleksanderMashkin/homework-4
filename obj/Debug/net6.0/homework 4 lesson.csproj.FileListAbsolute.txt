@@ -1,0 +1,15 @@
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/bin/Debug/net6.0/homework 4 lesson
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/bin/Debug/net6.0/homework 4 lesson.deps.json
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/bin/Debug/net6.0/homework 4 lesson.runtimeconfig.json
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/bin/Debug/net6.0/homework 4 lesson.dll
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/bin/Debug/net6.0/homework 4 lesson.pdb
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/obj/Debug/net6.0/homework 4 lesson.csproj.AssemblyReference.cache
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/obj/Debug/net6.0/homework 4 lesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/obj/Debug/net6.0/homework 4 lesson.AssemblyInfoInputs.cache
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/obj/Debug/net6.0/homework 4 lesson.AssemblyInfo.cs
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/obj/Debug/net6.0/homework 4 lesson.csproj.CoreCompileInputs.cache
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/obj/Debug/net6.0/homework 4 lesson.dll
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/obj/Debug/net6.0/refint/homework 4 lesson.dll
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/obj/Debug/net6.0/homework 4 lesson.pdb
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/obj/Debug/net6.0/homework 4 lesson.genruntimeconfig.cache
+/Users/aleksandrmaskin/Desktop/homework 4 lesson/obj/Debug/net6.0/ref/homework 4 lesson.dll
